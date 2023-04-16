@@ -2,7 +2,7 @@
 Implementation of dictionary English to Italian by using WindowsForms and Visual Studio IDE.
 
 ## Paths
-```.
+```
 |-- DictionaryEngToIt
 |   |-- Sources
 |   |   |-- MainForm.cs
@@ -17,6 +17,7 @@ Implementation of dictionary English to Italian by using WindowsForms and Visual
 |   |   |-- AddForm.Designer.cs
 |   |-- Program.cs
 |   |-- Init Database.sql
+```
 
 It has been realized by:
 - MainForm: show the list of phrases/words
