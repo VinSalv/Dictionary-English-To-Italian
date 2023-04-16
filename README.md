@@ -16,15 +16,17 @@ Implementation of dictionary English to Italian by using WindowsForms and Visual
 |   |   |-- MainForm.Designer.cs
 |   |   |-- AddForm.Designer.cs
 |   |-- Program.cs
-```
-It has been realized 5 classes:
+|   |-- Init Database.sql
+
+It has been realized by:
 - MainForm: show the list of phrases/words
 - AddForm: add and edit phrases/words
 - Word: object Word
 - Phrase: object Phrase
 - Utils: constants and functions useful for other classes
-- DataAccessLayer: Singleton connection to MySQL
+- DataAccessLayer: Singleton connection to MySQL database
 - DataAccessLayerQuery: queries database (backend)
+- Init Database: init tables, users and triggers in MySQL
 
 # Interface
 
