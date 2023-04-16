@@ -30,43 +30,46 @@ It has been realized 5 classes:
 
 ### DictionaryEngToIt
 <p align="center">
- <img src=" " />
+ <img src="https://user-images.githubusercontent.com/45711698/232349939-1e49e9f0-bb47-42ba-8bad-e0c49e0776ec.png" />
 </p>
 
 ### Phrases
 <p align="center">
- <img src="4" />
+ <img src="https://user-images.githubusercontent.com/45711698/232349955-522fc0df-5663-4d9a-81d0-b2aa336f146f.png" />
 </p>
 
 ### Words
 <p align="center">
- <img src="6" />
+ <img src="https://user-images.githubusercontent.com/45711698/232349978-f08ce111-5e8c-4285-abdf-4bceb9053a38.png" />
 </p>
+
 <p align="center">
- <img src="7" />
+ <img src="https://user-images.githubusercontent.com/45711698/232350127-eb852a5d-4306-4c0f-b771-1a007b92f2cb.png" />
 </p>
+
 <p align="center">
- <img src="8" />
+ <img src="https://user-images.githubusercontent.com/45711698/232350132-3f5904ec-ef5a-4c0d-881f-af5af288aee6.png" />
 </p>
+
 <p align="center">
- <img src="9" />
+ <img src="https://user-images.githubusercontent.com/45711698/232350134-52806917-c0f1-4b19-8078-35bc4d0d260f.png" />
 </p>
 
 ### Add
 <p align="center">
- <img src="2" />
+ <img src="https://user-images.githubusercontent.com/45711698/232350216-a9fb69f8-3371-439b-8210-d26dd91db180.png" />
 </p>
 
 ### Edit
 <p align="center">
- <img src="5" />
+ <img src="https://user-images.githubusercontent.com/45711698/232350240-a17c1aba-86d7-4c8f-a5d5-3778130e1253.png" />
 </p>
 
 <p align="center">
- <img src="10" />
+ <img src="https://user-images.githubusercontent.com/45711698/232350258-6445cf5d-f3d3-4a5e-8adb-5f4143123ec6.png" />
 </p>
 
 ### About the creator
 <p align="center">
- <img src="3" />
+ <img src="https://user-images.githubusercontent.com/45711698/232350257-2d1f68fa-4094-439b-a83d-bb82e0fc90d6.png" />
 </p>
