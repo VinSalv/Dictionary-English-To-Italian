@@ -32,7 +32,7 @@ It has been realized by:
 # MySQL scheme
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45711698/232353334-5a6537e9-4966-46f4-adba-e156878a67bf.png" />
+ <img src="https://user-images.githubusercontent.com/45711698/232353537-193de404-68d0-4134-b080-471379cfe77e.png" />
 </p>
 
 # Interface
