@@ -1,5 +1,5 @@
 # Dictionary English to Italian
-Implementation of dictionary English to Italian by using WindowsForms and Visual Studio IDE.
+Implementation of dictionary English to Italian by using MySQL, WindowsForms and Visual Studio IDE.
 
 ## Paths
 ```
