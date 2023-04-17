@@ -8,7 +8,7 @@
  *  Generate tables, users and triggers.
  */
 
-USE englishdictionaryschema;
+USE dictionaryengtoitschema;
 
 DROP USER IF EXISTS 'viewer'@'localhost';
 CREATE USER 'viewer'@'localhost' IDENTIFIED BY '1234';
