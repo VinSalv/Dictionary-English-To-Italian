@@ -29,6 +29,12 @@ It has been realized by:
 - DataAccessLayerQuery: queries database (backend)
 - Init Database: init tables, users and triggers in MySQL
 
+# MySQL scheme
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45711698/232353334-5a6537e9-4966-46f4-adba-e156878a67bf.png" />
+</p>
+
 # Interface
 
 ### DictionaryEngToIt
@@ -75,10 +81,4 @@ It has been realized by:
 ### About the creator
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45711698/232350257-2d1f68fa-4094-439b-a83d-bb82e0fc90d6.png" />
-</p>
-
-# MySQL scheme
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45711698/232353334-5a6537e9-4966-46f4-adba-e156878a67bf.png" />
 </p>
